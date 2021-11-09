@@ -1,0 +1,3 @@
+Geh in den ordner client und dann öffne die main.lua und die vehicle.lua dann ersetze "shoolyardcrips" mit dam job der gewünscht ist 
+Dann gehst du in denn server ordner rein und da öffnest du die main.lua und da ersetzt du "shoolyardcrips" mit dam job der gewünscht ist 
+und dann in der config.lua genau so und dann geh in die locales en.lua und geh in die zeile 147 und änder da "shoolyardcrips" mit dem gewünschtem job 
